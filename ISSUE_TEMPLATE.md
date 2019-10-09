@@ -9,6 +9,13 @@
 - [ ] Lightning Talk (5-10 minutos max)
 - [ ] Avisos de trabajo / comunidades / actividades / ETC.
 
+## ¿Cuál es la modalidad de tu presentación?
+- [ ] Presencial.
+- [ ] Remota.
+
+## (Opcional solo si modalidad es **remota**) Indícanos tu timezone
+
+
 ## ¿Cuál es tu nombre?
 
 
